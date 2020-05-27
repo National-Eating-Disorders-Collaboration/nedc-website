@@ -1,0 +1,212 @@
+#headerBecome
+{
+  height: 100px;
+  background-color: white;
+  margin-bottom: 70px;
+}
+#loginRegister,
+#member_settings,
+#MemberLoginForm_LostPasswordForm,
+#ChangePasswordForm_ChangePasswordForm
+{
+  figure.attention {
+    width: 570px;
+    margin: auto;
+    background-color: #ffe2b9;
+    border: 1px solid #da7f00;
+    padding: 20px;
+    border-radius: 5px;
+    p {
+      text-align: center;
+      color: #cc7701;
+      a {
+        color: $lightBlue;
+        text-decoration: underline;
+      }
+    }
+  }
+  p {
+    text-align: center;
+  }
+  form
+  {
+    .message {
+      &.bad, &.validation {
+        color: red;
+      }
+      &.good {
+       color: green; 
+      }
+    }
+    @include mediaScreen(no-mobile)
+    {
+
+      width: 570px;
+      margin: auto;
+    }
+  }
+  .error_message {
+    padding: 5% 15px;
+    margin: 20px 0;
+    background-color: #ffe7ec;
+    border: 1px solid #ffa9ba;
+    span {
+      color: #ff0032;
+      a {
+        color: $darkBlue;
+      }
+    }
+  }
+  h1
+  {
+    margin-bottom: 50px;
+    text-align: center;
+  }
+  input[type="submit"]
+  {
+    background-color: #1D687E;
+    color: white;
+    border: 0;
+    width: 270px;
+    height: 65px;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+    margin-left: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+
+    @include mediaScreen(mobile)
+    {
+      width: 100%;
+    }
+  }
+  fieldset {
+    border: 0px;
+    padding: 0;
+  }
+  #ForgotPassword {
+    text-align: right;
+    a {
+      color: $darkBlue;
+    }
+  }
+  textarea {
+    height: 200px !important;
+  }
+  input[type="text"],
+  input[type="password"],
+  input[type="email"],
+  textarea,
+  select
+  {
+    height: 65px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border: 1px solid $paleBlue;
+    box-sizing: border-box;
+  }
+  select
+  {
+    -webkit-appearance: none;
+    border-radius: 0;
+    background-image: url(../img/arrow-down-fill.svg);
+    background-repeat: no-repeat;
+    background-position: 98%;
+    margin-bottom: 20px;
+  }
+  label
+  {
+    
+    font-size: 14px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+  input[type="checkbox"]
+  {
+    margin: 10px;
+  }
+  .field.checkbox {
+    display: flex;
+    input[type="checkbox"]
+    {
+      margin: 10px 5px;
+    }
+  }
+  .flexCheck
+  {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    @include mediaScreen(mobile)
+    {
+      flex-direction: column;
+    }
+    div
+    {
+      text-align: center;
+      @include mediaScreen(mobile)
+      {
+        width: 100%;
+      }
+    }
+    .forgot
+    {
+      margin: 20px 0;
+      font-size: 14px;
+      color: $darkBlue;
+      display: inline-block;
+    }
+  }
+  span
+  {
+    border: 1px solid $paleBlue;
+    height: 75px;
+    padding: 10px;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    @include mediaScreen(no-mobile)
+    {
+      width: 570px;
+      margin: auto;
+      margin-bottom: 30px;
+    }
+    a
+    {
+      color: $darkBlue;
+      margin-left: 5px;
+    }
+  }
+  .flexInput
+  {
+    display: flex;
+    @include mediaScreen(mobile)
+    {
+      flex-direction: column;
+    }
+    label
+    {
+      width: 100%;
+      margin-right: 10px;
+      &:last-child
+      {
+        margin-right: 0px;
+      }
+    }
+  }
+  input.only
+  {
+    font-size: 14px;
+    margin-bottom: 40px;
+  }
+}

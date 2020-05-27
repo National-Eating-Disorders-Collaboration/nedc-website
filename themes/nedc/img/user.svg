@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="15px" viewBox="0 0 14 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45 (43475) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Nav" transform="translate(-1201.000000, -73.000000)" fill-rule="nonzero" fill="#163B4A">
+            <g id="Group-5" transform="translate(-2.000000, 0.000000)">
+                <g id="Group" transform="translate(1203.000000, 73.000000)">
+                    <path d="M7,8.125 C9.10572727,8.125 10.8181818,6.443125 10.8181818,4.375 L10.8181818,3.75 C10.8181818,1.681875 9.10572727,0 7,0 C4.89427273,0 3.18181818,1.681875 3.18181818,3.75 L3.18181818,4.375 C3.18181818,6.443125 4.89427273,8.125 7,8.125 Z" id="Shape"></path>
+                    <path d="M11.6594545,9.988125 C8.666,9.17375 5.33463636,9.17375 2.34054545,9.988125 C0.962818182,10.363125 0,11.6025 0,13.003125 L0,15 L14,15 L14,13.003125 C14,11.6025 13.0371818,10.363125 11.6594545,9.988125 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

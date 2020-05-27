@@ -1,0 +1,32 @@
+---
+Name: mysite
+After:
+  - 'framework/*'
+  - 'cms/*'
+---
+# YAML configuration for SilverStripe
+# See http://doc.silverstripe.org/framework/en/topics/configuration
+# Caution: Indentation through two spaces, not tabs
+SSViewer:
+  theme: 'nedc'
+
+Link:
+  allowed_types:
+    - URL
+    - SiteTree
+
+Member:
+  unique_identifier_field: 'Username'
+  extensions:
+    - MemberExtension
+
+Security:
+  default_login_dest: '/member/dashboard'
+
+SiteConfig:
+  extensions:
+    - NEDCExtraSettingsSiteConfig
+
+LeftAndMain:
+  extra_requirements_javascript:
+    - mysite/js/CMSExtension.js

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="8px" viewBox="0 0 11 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45 (43475) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A00_NEDC_Home_1" transform="translate(-480.000000, -1136.000000)" fill-rule="nonzero" fill="#7B9E9E">
+            <g id="arrows-16px-1_triangle-down-20" transform="translate(480.000000, 1136.000000)">
+                <path d="M5.50068749,8 C5.72481066,8 5.93518393,7.894 6.06374538,7.71533333 L10.876206,1.04866667 C11.0233297,0.845333333 11.0398296,0.579333333 10.9229556,0.358666667 C10.804019,0.138 10.5695835,0 10.3131481,0 L0.686851936,0 C0.430416537,0 0.195980958,0.138 0.0770444327,0.358666667 C-0.0398296097,0.579333333 -0.0233297449,0.845333333 0.12379405,1.04866667 L4.93625462,7.71533333 C5.06481607,7.894 5.27518934,8 5.49931251,8 L5.50068749,8 C5.5,8 5.5,8 5.50068749,8 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

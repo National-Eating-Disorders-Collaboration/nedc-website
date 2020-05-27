@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="37px" height="37px" viewBox="0 0 37 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.8">
+        <g id="D03_NEDC_PD_ELearning" transform="translate(-462.000000, -849.000000)" fill-rule="nonzero" fill="#FFFFFF">
+            <path d="M480.5,849 C470.298792,849 462,857.298792 462,867.5 C462,877.701208 470.298792,886 480.5,886 C490.701208,886 499,877.701208 499,867.5 C499,857.298792 490.701208,849 480.5,849 Z M476,875 L476,860 L488,867.5 L476,875 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

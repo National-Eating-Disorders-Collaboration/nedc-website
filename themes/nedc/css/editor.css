@@ -1,0 +1,27 @@
+.accordion-header {
+	border: 1px solid #dddddd;
+	padding: 10px;
+}
+
+.accordion-content {
+	border: 1px solid #dddddd;
+	padding: 20px;
+	background-color: #eeeeee;
+}
+
+.figure {
+  margin: 30px 0;
+  padding: 20px;
+  background-color: #CDE9F1;
+}
+
+.figure-dark {
+  margin: 30px 0;
+  padding: 20px;
+  background-color: #275569;
+}
+
+.check-block {
+	padding: 20px 0;
+	border-bottom: 1px solid #cccccc;
+}

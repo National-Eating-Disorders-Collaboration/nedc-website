@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45 (43475) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="B02_NEDC_EatingDisorders_PageD" transform="translate(-825.000000, -1183.000000)" fill-rule="nonzero" fill="#1D687E">
+            <path d="M840,1190 L834,1190 L834,1184 C834,1183.4 833.6,1183 833,1183 C832.4,1183 832,1183.4 832,1184 L832,1190 L826,1190 C825.4,1190 825,1190.4 825,1191 C825,1191.6 825.4,1192 826,1192 L832,1192 L832,1198 C832,1198.6 832.4,1199 833,1199 C833.6,1199 834,1198.6 834,1198 L834,1192 L840,1192 C840.6,1192 841,1191.6 841,1191 C841,1190.4 840.6,1190 840,1190 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

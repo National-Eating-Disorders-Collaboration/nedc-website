@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="20px" viewBox="0 0 18 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45 (43475) - http://www.bohemiancoding.com/sketch -->
+    <title>files-24px-glyph_single-content-02</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="B00_NEDC_EatingDisordersA" transform="translate(-1000.000000, -934.000000)" fill-rule="nonzero" fill="#C8DFA2">
+            <g id="files-24px-glyph_single-content-02" transform="translate(1000.000000, 934.000000)">
+                <path d="M11.4545455,14.1666667 C11.4545455,13.7066667 11.8210909,13.3333333 12.2727273,13.3333333 L18,13.3333333 L18,0.833333333 C18,0.373333333 17.6334545,0 17.1818182,0 L0.818181818,0 C0.366545455,0 0,0.373333333 0,0.833333333 L0,19.1666667 C0,19.6266667 0.366545455,20 0.818181818,20 L11.4545455,20 L11.4545455,14.1666667 Z M3,4 L14,4 L14,6 L3,6 L3,4 Z M3,8 L14,8 L14,10 L3,10 L3,8 Z M8,15 L3,15 L3,13 L8,13 L8,15 Z" id="Shape"></path>
+                <polygon id="Shape" points="17 15 13 15 13 20"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

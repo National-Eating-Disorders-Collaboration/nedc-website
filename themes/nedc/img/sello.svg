@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45 (43475) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="B00_NEDC_EatingDisordersA" transform="translate(-197.000000, -1434.000000)">
+            <g id="Group-2" transform="translate(198.000000, 1435.000000)">
+                <circle id="Oval-2-Copy" stroke="#D1DDDD" cx="23" cy="23" r="23"></circle>
+                <path d="M31.0050891,22.3839286 L26.9821883,22.3839286 C26.7226463,22.3839286 26.4631043,22.2566964 26.2900763,22.0870536 L26.2900763,22.0870536 C25.4249364,21.28125 25.1221374,20.0513393 25.4249364,18.90625 L27.0254453,13.4776786 C27.0254453,11.5691964 25.4249364,10 23.4783715,10 C21.5318066,10 19.9312977,11.5691964 19.9312977,13.4776786 L21.5318066,18.90625 C21.8778626,20.0513393 21.5750636,21.28125 20.6666667,22.0870536 L20.6666667,22.0870536 C20.4936387,22.2566964 20.2340967,22.3839286 19.9745547,22.3839286 L15.9516539,22.3839286 C15.43257,22.3839286 15,22.8080357 15,23.3169643 L15,28.0669643 C15,28.5758929 15.43257,29 15.9516539,29 L31.0483461,29 C31.56743,29 32,28.5758929 32,28.0669643 L32,23.3169643 C32,22.8080357 31.56743,22.3839286 31.0050891,22.3839286 Z" id="Shape" fill="#95C75B" fill-rule="nonzero"></path>
+                <path d="M16.5,32 L31,32" id="Line" stroke="#79863D" stroke-width="2" fill="#CB562A" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>

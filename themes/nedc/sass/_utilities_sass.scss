@@ -1,0 +1,98 @@
+%grid
+{
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 10px;
+  padding-right: 10px;
+  @media (min-width: 769px)
+  {
+    width: 740px;
+  }
+  @media (min-width: 1200px)
+  {
+    width: 1180px;
+  }
+}
+
+// Transitions
+@mixin transition($transition) {
+  -webkit-transition: $transition;
+     -moz-transition: $transition;
+      -ms-transition: $transition;
+       -o-transition: $transition;
+          transition: $transition;
+}
+
+@mixin box-shadow {
+  -webkit-box-shadow: 0px 12px 34px 0px rgba(0,0,0,0.10);
+  -moz-box-shadow: 0px 12px 34px 0px rgba(0,0,0,0.10);
+  box-shadow: 0px 12px 34px 0px rgba(0,0,0,0.10);
+}
+
+@mixin mediaScreen($ms)
+{
+  @if $ms == desktop
+  {
+    @media(min-width: 1200px)
+    {
+      @content;
+    }
+  }
+  @else if $ms == no-desktop
+  {
+    @media(max-width: 1199px)
+    {
+      @content;
+    }
+  }
+  @else if $ms == tablet
+  {
+    @media(max-width: 1199px) and (min-width: 769px)
+    {
+      @content;
+    }
+  }
+  @else if $ms == mobile
+  {
+    @media(max-width: 768px)
+    {
+      @content;
+    }
+  }
+  @else if $ms == no-mobile
+  {
+    @media(min-width: 769px)
+    {
+      @content;
+    }
+  }
+  @else
+  {
+    @warn 'Falta parametro';
+  }
+}
+
+@mixin link-variant($background-color, $border-color, $color)
+{
+  background-color: $background-color;
+  border-color: $border-color;
+  color: $color;
+  text-decoration: none;
+  &:hover
+  {
+    background-color: darken($background-color, 5);
+  }
+}
+
+@-webkit-keyframes fadeinLoad {
+  from { opacity: 0;}
+  to { opacity: 1; }
+}
+@-moz-keyframes fadeinLoad {
+  from { opacity: 0; -moz-transform: translate(0, -20px); }
+  to { opacity: 1; -moz-transform: translate(0, 0); }
+}
+@keyframes fadeinLoad {
+  from { opacity: 0; transform: translate(0, -20px); }
+  to { opacity: 1; transform: translate(0, 0); }
+}

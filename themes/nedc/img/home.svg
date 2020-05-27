@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="15px" viewBox="0 0 13 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45 (43475) - http://www.bohemiancoding.com/sketch -->
+    <title>ui-16px-1_home-minimal</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="B00_NEDC_EatingDisordersA" transform="translate(-150.000000, -151.000000)" fill-rule="nonzero" fill="#19495D">
+            <g id="ui-16px-1_home-minimal" transform="translate(150.000000, 151.000000)">
+                <path d="M12.0714286,15 C12.6285714,15 13,14.625585 13,14.0639626 L13,5.63962559 C13,5.35881435 12.9071429,5.07800312 12.6285714,4.89079563 L7.05714286,0.210608424 C6.68571429,-0.0702028081 6.22142857,-0.0702028081 5.85,0.210608424 L0.278571429,4.89079563 C0.0928571429,5.07800312 0,5.35881435 0,5.63962559 L0,14.0639626 C0,14.625585 0.371428571,15 0.928571429,15 L4.64285714,15 L4.64285714,10.3198128 L8.35714286,10.3198128 L8.35714286,15 L12.0714286,15 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45 (43475) - http://www.bohemiancoding.com/sketch -->
+    <title>ui-16px-1_zoom</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A02_NEDC_Nav_Sticky" transform="translate(-1284.000000, -29.000000)" fill-rule="nonzero" fill="#95A8A4">
+            <g id="Nav" transform="translate(-443.000000, 0.000000)">
+                <g id="ui-16px-1_zoom" transform="translate(1727.000000, 29.000000)">
+                    <path d="M15.875,14.0372671 C17,12.5465839 17.625,10.8074534 17.625,8.81987578 C17.625,3.97515528 13.75,0 8.875,0 C4,0 0,3.97515528 0,8.81987578 C0,13.6645963 4,17.6397516 8.875,17.6397516 C10.875,17.6397516 12.75,17.0186335 14.125,15.9006211 L17.875,19.6273292 C18.125,19.8757764 18.5,20 18.75,20 C19,20 19.375,19.8757764 19.625,19.6273292 C20.125,19.1304348 20.125,18.3850932 19.625,17.8881988 L15.875,14.0372671 Z M9.5,15 C5.93137255,15 3,12.1683168 3,8.56435644 C3,4.96039604 5.93137255,2 9.5,2 C13.0686275,2 16,4.96039604 16,8.56435644 C16,12.1683168 13.0686275,15 9.5,15 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

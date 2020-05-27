@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="23px" viewBox="0 0 24 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45 (43475) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="B00_NEDC_EatingDisordersA" transform="translate(-927.000000, -1696.000000)" fill-rule="nonzero" fill="#0F3444">
+            <g id="Group-7" transform="translate(852.000000, 1653.000000)">
+                <g id="ui-24px-glyph-2_phone" transform="translate(75.000000, 43.000000)">
+                    <g id="Group-5">
+                        <path d="M20,0 L4,0 C1.791,0 0,1.791 0,4 L0,7 L7,7 L7,4 L17,4 L17,7 L24,7 L24,4 C24,1.791 22.209,0 20,0 Z" id="Shape"></path>
+                        <path d="M22.759,16.35 L16.759,9.35 C16.569,9.128 16.292,9 16,9 L8,9 C7.708,9 7.431,9.128 7.241,9.35 L1.241,16.35 C1.085,16.53 1,16.762 1,17 L1,22 C1,22.553 1.447,23 2,23 L22,23 C22.553,23 23,22.553 23,22 L23,17 C23,16.762 22.915,16.53 22.759,16.35 Z M12,19 C10.343,19 9,17.657 9,16 C9,14.343 10.343,13 12,13 C13.657,13 15,14.343 15,16 C15,17.657 13.657,19 12,19 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

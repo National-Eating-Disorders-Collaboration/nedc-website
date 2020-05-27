@@ -1,0 +1,148 @@
+footer#footer
+{
+	background-color: $darkBlue;
+	.inner
+	{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    @include mediaScreen(no-mobile)
+    {
+    	padding-bottom: 80px;
+    }
+    @include mediaScreen(tablet)
+		{
+			justify-content: center;
+		}
+		@include mediaScreen(mobile)
+		{
+			flex-direction: column;
+			padding-left: 30px;
+			padding-right: 30px;
+		}
+	}
+	.wrap
+	{
+		@include mediaScreen(tablet)
+		{
+			width: 33.3%;
+			&:last-child
+			{
+				width: auto;
+			}
+		}
+		&.border
+		{
+			@include mediaScreen(mobile)
+			{
+		    border-bottom: 1px solid #16343C;
+	  		padding-bottom: 20px;
+	  	}
+		}
+		ul
+		{
+			margin-top: 35px;
+			line-height: 28px;
+			font-size: 14px;
+			li
+			{
+				&:first-child
+				{
+					a {color: white; }
+					color: white;
+					font-family: museoMedium;
+				}
+				&.accordionState
+				{
+
+					@include mediaScreen(mobile)
+					{
+					background-image: url(../img/arrow-down-foot.svg);
+				    background-position: right;
+	    			background-repeat: no-repeat;
+						&.active
+						{
+							background-image: url(../img/arrow-up-foot.svg);
+						}
+					}
+				}
+				&.accordionInner
+				{
+					@include mediaScreen(mobile)
+					{
+						display: none;
+					}
+				}
+			}
+			a
+			{
+				color: #9FB1AD;
+			}
+		}
+		.help
+		{
+			@include link-variant(#95C75B, #95C75B, $darkBlue);
+	    display: inline-block;
+    	font-family: museoMedium;
+    	margin-top: 20px;
+    	background-image: url(../img/help.png);
+    	padding: 15px 100px;
+	    background-repeat: no-repeat;
+	    background-position: 70px;
+      text-align: center;
+	    @include mediaScreen(mobile)
+	    {
+	    	display: block;
+	    }
+		}
+		.social
+		{
+			display: flex;
+			margin-top: 20px;
+			a
+			{
+		    background-repeat: no-repeat;
+		    padding: 24px;
+		    margin-right: 5px;
+			}
+			.facebook
+			{
+				background-image: url(../img/face.svg);
+			}
+			.twiter
+			{
+				background-image: url(../img/tw.svg);
+			}
+			.instagram
+			{
+				background-image: url(../img/ins.svg);
+			}
+			.linkedin
+			{
+				background-image: url(../img/lk.svg);
+			}
+		}
+		.onlyMobile
+		{
+			@include mediaScreen(no-mobile)
+			{
+				display: none;
+			}
+		}
+		.noMobile
+		{
+			@include mediaScreen(mobile)
+			{
+				display: none;
+			}
+		}
+	}
+	#copyright
+	{
+		background-color: #0F3B4E;
+		color: #9FB1AD;
+		font-size: 14px;
+		line-height: 20px;
+		padding: 30px 0;
+	}
+}
